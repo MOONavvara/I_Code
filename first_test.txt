@@ -1,6 +1,7 @@
-ID:
-Summary:
-Pre-condition:
+ID:MM0101
+Summary: Проверить кликабельность ссылок в header
+Pre-condition: Открыть сайт https://muminovamaftuna.github.io/maftuna_portfolio/
 Steps:
-Expected result:
- 
+1.Кликнуть на раздел Главное   Expected result:Оотоюражается разлед Главная
+2.Кликнуть на раздел Skills   Expected result:Оотоюражается разлед Skills
+3.Кликнуть на раздел Услуги   Expected result:Оотоюражается разлед Услуги
